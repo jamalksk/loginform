@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url('https://wallpaperset.com/w/full/2/2/c/7664.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    color:rgb(239, 15, 15);
+}
+.form
+{
+    background-image: url('https://wallpaperset.com/w/full/3/8/2/8570.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 11px -13px 146px 0px rgba(12, 112, 51, 0.75);
+}
+label{
+    display: block;
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(93, 16, 87);
+    padding: 3px 0px;
+}
+input
+{
+    background-color: transparent;
+    color: rgb(2, 13, 21);
+    border-radius: 5px;
+    border-color: aliceblue;
+    width: 100%;
+    padding: 5px 15px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+button
+{
+    background-color: rgb(137, 237, 74);
+    border-color: aliceblue;
+    color: rgb(183, 26, 26);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px;
+    margin-top: 8px;
+    margin-left: 80px;
+    border-radius: 5px;
+}
+table,thead,tr,td
+{
+    border: 5px solid rgba(16, 17, 16, 0.66);
+    border-collapse: collapse;
+    padding: 12px 29px;
+    margin-top: 20px;
+}
